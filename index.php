@@ -34,8 +34,8 @@
 							Manaus- Amazonas
 
 						</span><!--/ fechamento locais-->
-						<a class="reserva">Reservar</a>
-						<a class="reserva">Login</a>
+						<a href="formulario.php" class="reserva">Reservar</a>
+						<a  href="" class="reserva">Login</a>
 						<div style="clear: both;"></div>
 					
 					</div><!--/ fechamento menu-locais-->
