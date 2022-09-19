@@ -2,7 +2,9 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title></title>
+	<title>CHALÉ HOTEL</title>
+	<link rel="Shortcut icon" href="imagens/logo.png">
+<link href="https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink&family=Montserrat&family=Roboto&display=swap" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="css/estilo.css">
 </head>
 <body>
@@ -75,19 +77,19 @@
 			<div class="conteudo"><!-- abertura conteudo-->
 
 				<h2>
-					Lorem ipsum dolor sit amet, consectetur
+					Venha com a sua família passar os melhores dias de suas férias
 				</h2>
 
-			<p>
-				Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+			<p style="font-family: 'Aref Ruqaa Ink', sans-serif;">
+				Venha conhecer o melhor chalé da região norte do país, aproveitando a paisagem, o clima e tudo que a nossa região e nossos serviços tem a oferecer para você.
 			</p>
 
-			<p>
-				Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo
+			<p style="font-family: 'Montserrat', sans-serif;">
+				Com nossos mais variados serviços para a sua diversão e aproveitamento e diversas atrações especiais, desde shows de dança a músicas ao vivo em nosso restaurante.
 			</p>
 
-			<p>
-				Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+			<p style="font-family: 'Roboto', sans-serif;">
+				E durante a sua madrugada, temos nossos serviços nortunos que abrangem além do oferecido durante ao dia, com mais opções de diversão e bebidas (<b>apenar para maiores de 18 anos</b>).
 			</p>
 
 			</div><!--/ fechamento conteudo-->
@@ -112,7 +114,7 @@
 							</h3>
 
 							<p>
-								Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+								 Nossos apartamentos inteiramente tematizados na nossa região florestal e totalmente pensados para você se aventurar em nossas terras.
 							</p>
 
 						</a>
@@ -131,7 +133,7 @@
 							</h3>
 
 							<p>
-								Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+								Venha e experimente de nossa culinária, sabores picantes, quentes das nossas comidas típicas. Aproveite também nossas frutas vindas e coletadas diretamente da árvore para que você sinta o gosto de nossa terra.
 							</p>
 
 						</a>
@@ -150,7 +152,7 @@
 							</h3>
 
 							<p>
-								Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+								Não deixe para amanhã e dê um pulo em nossas águas, sejam elas quentes, geladas, doces ou salgadas você escolhe, afinal, tudo aqui é para você aproveitar com sua família e amigos.
 							</p>
 
 						</a>
@@ -164,7 +166,14 @@
 		</div><!--/ fechamento area-lateral-->
 
 		<div id="rodape">
-			&copy;Copyright 2000-2022 Chalé Hotel
+			<div class="icones">
+			Para mais informações consulte nossas redes: <br>
+			<a href="https://www.facebook.com" target="_blank"><img src="imagens/facebook.png" width="20px" height="20px"></a>
+			<a href="https://www.youtube.com" target="_blank"><img src="imagens/youtube.png" width="20px" height="20px"></a>
+			<a href="https://www.twitter.com" target="_blank"><img src="imagens/twitter.png" width="20px" height="20px"></a>
+			<a href="https://www.instagram.com" target="_blank"><img src="imagens/insta.png" width="20px" height="20px"></a>
+			</div>
+			&copy;Copyright 2000-2022 Chalé Hotel ||  Para reclamações ou dúvidas nos contate pelo email: chale@gmail.com <a href="https://mail.google.com" target="_blank"><img src="imagens/gmail.png" width="20px" height="20px"></a> 
 		</div>
 
 	</div><!--/ fim container-->
